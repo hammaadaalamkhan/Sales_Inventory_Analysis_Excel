@@ -1,6 +1,7 @@
 # Sales_Inventory_Analysis_Excel
 Excel project analyzing sales and inventory data, with dashboard and insights.
-I could also use Power BI for visualisations. 
+
+I could also use Power BI for visualisations, but the main work is in Excel.
 
 # Sales & Inventory Analysis Dashboard
 
@@ -10,7 +11,6 @@ Analyze sales and stock data to identify trends, top-selling products, and inven
 ## Dataset
 - Columns: Date, Product, Category, Units Sold, Unit Price, Stock Level, Supplier
 - Dataset will be created/generated in Excel
-- Visualisation in Power BI
 
 ## Steps (Planned)
 1. Data cleaning 
@@ -21,4 +21,6 @@ Analyze sales and stock data to identify trends, top-selling products, and inven
 6. Document project with screenshots
 
 ## Deliverables
-- Excel dashboard with charts and calculations
+- Excel dashboard with charts, PivotTables, and calculations
+- Screenshots of charts and dashboard
+- GitHub repository with project files as proof
