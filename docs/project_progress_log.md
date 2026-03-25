@@ -46,3 +46,29 @@ The updated dataset was uploaded to GitHub and commits were made to document pro
 
 ## Summary (Day 1–3)
 During the first three days, a structured foundation for the project was established. The repository and dataset were created, the data was cleaned and prepared, and key calculations were added. The project is now ready for analysis using PivotTables, charts, and dashboard creation.
+
+---
+
+## Day 4 – PivotTable Analysis and Data Insights
+
+Today I continued the analysis of the sales and inventory dataset using PivotTables in Excel. The focus was on identifying sales performance and product trends.
+
+First, I created a PivotTable to analyze total revenue per product. This helped identify the best performing products and compare their contribution to total sales. I sorted the table by total sales to clearly see the top-selling items.
+
+Next, I created a PivotTable showing total revenue by category (Furniture vs Lighting). This showed that furniture generates the majority of the revenue, while lighting products contribute a smaller but consistent share.
+
+I also created a PivotTable showing units sold per category to compare sales volume. This allowed me to compare whether high revenue came from high prices or high sales volume.
+
+To improve understanding of the data, I created pie charts and column charts based on these PivotTables. These visualizations make it easier to quickly identify trends and differences between categories.
+
+Finally, I organized the PivotTables and charts into separate sheets to keep the workbook structured and easier to understand.
+
+Progress:
+- Created PivotTable for revenue by product
+- Created PivotTable for revenue by category
+- Created PivotTable for units sold by category
+- Created charts to visualize results
+- Improved workbook structure
+
+Next step:
+Build the Excel dashboard and document key insights from the analysis.
