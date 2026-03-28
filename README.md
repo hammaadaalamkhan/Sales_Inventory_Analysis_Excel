@@ -1,26 +1,35 @@
-# Sales_Inventory_Analysis_Excel
-Excel project analyzing sales and inventory data, with dashboard and insights.
+Project Title:
+Inventory Insights – Sales & Stock Analysis Dashboard
 
-I could also use Power BI for visualisations, but the main work is in Excel.
+Description:
+This project analyzes sales and stock data in Excel to identify top-selling products and sales trends using PivotTables and charts. The dashboard visualizes product performance and inventory without conditional formatting or stock status classification.
 
-# Sales & Inventory Analysis Dashboard
+Dataset Overview:
+Columns: Date, Month, Product, Category, Units Sold, Unit Price, Stock Level, Supplier, Total Sales
+Total units sold: 210 across Furniture and Lighting categories
+Total sales: €26,830
 
-## Objective
-Analyze sales and stock data to identify trends, top-selling products, and inventory issues.
+Analysis Steps Completed:
 
-## Dataset
-- Columns: Date, Product, Category, Units Sold, Unit Price, Stock Level, Supplier
-- Dataset will be created/generated in Excel
+Cleaned dataset, ensured correct data types
+Added calculated column: Total Sales (Units Sold × Unit Price)
+Created PivotTables:
+Units Sold per Product
+Total Sales per Category
+Created charts for PivotTables: Bar charts and pie charts
+Combined all charts and PivotTables into a dashboard sheet
+Added insights for dashboard (in German)
 
-## Steps (Planned)
-1. Data cleaning 
-2. Basic calculations (total sales, average sales, stock turnover)
-3. Create charts and PivotTables
-4. Build dashboard sheet
-5. Extract insights
-6. Document project with screenshots
+Dashboard Screenshots:
+<img width="959" height="539" alt="Dashboard_01" src="https://github.com/user-attachments/assets/554df915-2917-4161-82a0-113009d38409" />
 
-## Deliverables
-- Excel dashboard with charts, PivotTables, and calculations
-- Screenshots of charts and dashboard
-- GitHub repository with project files as proof
+
+Key Insights:
+
+Top-selling products: IKEA Poäng Chair and IKEA Kallax Shelf (14 units each)
+Furniture contributes most revenue (€20,655) despite similar units sold compared to Lighting
+Total units sold: 210; total revenue: €26,830
+
+Tools / Skills Used:
+
+Excel: PivotTables, formulas, charts, dashboards
